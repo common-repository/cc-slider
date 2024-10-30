@@ -1,0 +1,137 @@
+#wrap{
+  height: auto;
+  width:auto;
+  border: 1px solid #F1F1F1;
+  box-shadow: 1px 1px 1px 1px #888888;
+  margin: 10px 10px 10px 5px;
+
+}
+
+#tabs-5{
+  height: auto;
+  width:auto;
+  border: 1px solid #F1F1F1;
+  padding: 0 0px 10px 0;
+  margin: 10px 10px 10px 5px;  
+  background-color: #fff;
+  box-shadow: 0 0 2px #aaa;
+  display: inline-flex;
+}
+#plugin-title{
+  width:auto;
+  height:25px;
+  padding:7px 3px 3px 8px;
+  color:#000;
+  font-size:20px;
+  margin: 10px 10px 10px 5px;
+}
+form{
+  padding: 15px 0 0 10px;
+}
+.ccs-row-slider{
+  width:100%;
+  float:left;
+  margin-bottom:30px;
+}
+.ccs-row-slider label{
+  width:25%;
+  float:left;
+  font-weight: bold;
+}
+
+.ccs-row-slider .option-title{
+  width:15%;
+  float:left;
+}
+
+.plugin-header {
+  width: auto;
+  max-height: 100px;
+  background-color: #0C5D73;
+  -moz-box-shadow: 3px 3px 5px 6px #ccc;
+  -webkit-box-shadow: 3px 3px 5px 6px #ccc;
+  box-shadow: 3px 3px 3px 0px #ccc;
+  color: white;
+  font-size: 25px;
+  font-weight: bold;
+  text-align: center;
+  padding: 30px 0;
+  margin-bottom: 15px
+  
+}
+.ccs-row-slider i{
+  background-color: #ccc;
+  margin-left: 50px;
+}
+.ccs-row-slider-radio{
+  width:100%;
+  float:left;
+  margin-bottom:20px;
+}
+.ccs-row-slider-radio > i{
+  background-color: #ccc;
+}
+.ccs-row-slider-radio label{
+  width:15%;
+  float:left;
+}
+label.control-yes {
+  width: 8%;
+}
+.option-title{
+  font-weight: bold;
+}
+label.hover-yes {
+  width: 8%;
+  font-weight: 500;
+}
+label.hover-no {
+  width: 8%;
+  font-weight: 500;
+}
+.ccs-option-field {
+    display: inline-block;
+}
+.ccs-option-note {
+    font-style: italic;
+    margin-top: 10px;
+}
+.ccs-option-field > label {
+    min-width: 100px;
+    font-weight: normal;
+    display: inline-block;
+    margin-bottom:10px;
+}
+#form1 input[type=number] {
+    line-height: inherit;
+    width: 50px;
+}
+textarea.cc-text-code {
+    width: 309px;
+    margin-bottom: 25px;
+}
+
+.cc-note textarea {
+    resize: none;
+    background-color: #efeecf;
+}
+.cc-note{
+  background-color: #dde3dd;
+    margin-right: 15px;
+    margin-top: 7px;
+    padding-left: 23px;
+    padding-right: 17px;
+    height: 100%;
+}
+.cc-note h2{
+  background: #cfcfcf none repeat scroll 0 0;
+    color: #23282d;
+    font-size: 1.5em;
+    font-weight: 400;
+    margin-bottom: 0.83em;
+    margin-left: 0;
+    margin-right: 0;
+    padding-bottom: 7px;
+    padding-top: 7px;
+    text-align: center;
+  }
